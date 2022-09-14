@@ -46,8 +46,8 @@ Aplicando el modelo de MVC (Modelo vista controlador)
 
 Se aplican los conocimientos aprendidos creando las diferentes capas para la parte del back y los metodos a utilizar para acceder a la base de datos.
 
-## Enlace para acceder al Backend Login
+## Enlace para acceder al Backend Games
 [Back-Games](https://github.com/Nirsch95/Taller9.1-Bingo-Back-Games)
 
-## Enlace para acceder al Frontend
-[Front](https://github.com/Nirsch95/Taller9.3-Bingo-Front)
+## Enlace para acceder al Backend Login
+[Back-Login](https://github.com/Nirsch95/Taller9.2-Bingo-Back-Login)
