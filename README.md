@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Bingo virtual: Taller final
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Apreciado aprendiz, hasta ahora usted ha realizado un recorrido arduo y estamos a puertas de triunfar para pasar las ligas de entregamiento (Training Leagues), pero como siempre, todo requiere mucho esfuerzo, constancia y dedicación. Así que llegó el momento de combinar todo el conocimiento adquirido.
 
-## Available Scripts
+La empresa "El Gran Buda", una casa de juegos de apuestas y azar, requiere desarrollar un Bingo Virtual, bajo los siguientes requerimientos.
 
-In the project directory, you can run:
+1.	Cada persona deberá ser un usuario del sistema, usted puede usar lo que más le convenga como por ejemplo:
 
-### `npm start`
+*	El clásico usuario y contraseña.
+*	Identificación con cualquier red social.
+*	Identificación con cuentas de correo como por ejemplo de Gmail, Outlook, entre otros.
+*	Identificación por medio alguna wallet como por ejemplo MetaMask (web 3.0)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2.	Los usuarios (backend) serán manejados con NodeJS + MongoDB.
+3.	El frontend puede ser desarrollado en Angular, ReactJS, VueJS o cualquier otro framework y/o librería, como también lo puede hacer en HTML puro producido desde NodeJS bajo la tecnología que usted desee escoger.
+4.	La comunicación entre el frontend y el backend, debe ser de forma exclusiva por medio de fetch, axios o cualquier otro método que use la tecnología AJAX; si desea usar websockets también lo puede hacer, no hay problema.
+5.	El backend, es decir, quien maneja la lógica del negocio, deberá ser escrita en Java con Spring Boot.
+6.	La base debe principal debe usar MySQL, PostgreSQL, Oracle o MSSQL.
+7.	Aplique todos los conocimientos adquiridos en Cantera Nivel 2.
+8.	El backend en Java, sí requiere información de un usuario, el sistema deberá solicitarlo a NodeJS a través del consumo de un API.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Tecnologias :wrench:
 
-### `npm test`
+* Javascript
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png)
 
-### `npm run build`
+*	VSC
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![](https://code.visualstudio.com/assets/apple-touch-icon.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*	Nodejs
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![](https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png)
 
-### `npm run eject`
+*	Expressjs
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* React
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![](https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Autor
+[@Nirsch95](https://github.com/Nirsch95) - Andrés Castro :wolf:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Aplicando el modelo de MVC (Modelo vista controlador)
 
-## Learn More
+Se aplican los conocimientos aprendidos creando las diferentes capas para la parte del back y los metodos a utilizar para acceder a la base de datos.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Enlace para acceder al Backend Login
+[Back-Games](https://github.com/Nirsch95/Taller9.1-Bingo-Back-Games)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Enlace para acceder al Frontend
+[Front](https://github.com/Nirsch95/Taller9.3-Bingo-Front)
