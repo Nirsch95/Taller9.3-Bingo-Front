@@ -42,9 +42,21 @@ La empresa "El Gran Buda", una casa de juegos de apuestas y azar, requiere desar
 ### Autor
 [@Nirsch95](https://github.com/Nirsch95) - Andrés Castro :wolf:
 
-Aplicando el modelo de MVC (Modelo vista controlador)
+Se crea pagina de home para decidir que hacer
+![image](https://user-images.githubusercontent.com/37886668/190063227-0343ac70-503f-46c1-b39b-82f562b4b25f.png)
 
-Se aplican los conocimientos aprendidos creando las diferentes capas para la parte del back y los metodos a utilizar para acceder a la base de datos.
+Se crea pagina para registrarse o crear usuario a jugar
+![image](https://user-images.githubusercontent.com/37886668/190063290-d2889efe-20b4-4b14-9859-5bd917c316dd.png)
+
+Se crea pagina para autenticación de la creación de usuario (en construcción) y llega token de autenticación de creación
+![image](https://user-images.githubusercontent.com/37886668/190063626-a2cdc5be-047f-44e1-b112-7516ef02babe.png)
+
+Se crea pagina para ingresar al juego mediante los mismos parametros de creacción
+![image](https://user-images.githubusercontent.com/37886668/190063746-989c566b-216c-4731-86e0-a308c4c5a9c3.png)
+
+# Atención
+
+Se sigue en construcción la parte de front
 
 ## Enlace para acceder al Backend Games
 [Back-Games](https://github.com/Nirsch95/Taller9.1-Bingo-Back-Games)
